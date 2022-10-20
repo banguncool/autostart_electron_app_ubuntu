@@ -8,7 +8,7 @@ $ cd /etc/xdg/autostart
 ## Create new file
 ```sh
 $ sudo nano electronapp.desktop
-``
+```
 
 ## Fill this text
 ```
@@ -19,4 +19,4 @@ Terminal=false
 Type=Application
 ```
 
->> Don't forget to change name and application directory 
+> Don't forget to change name and application directory 
