@@ -19,4 +19,13 @@ Terminal=false
 Type=Application
 ```
 
+## Or with nvm
+```
+[Desktop Entry]
+Name=Electron
+Exec=bash -c "source $HOME/.nvm/nvm.sh && npm start --prefix /home/pi/stressing"
+Terminal=false
+Type=Application
+```
+
 > Don't forget to change name and application directory 
